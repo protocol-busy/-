@@ -1,3 +1,9 @@
+---
+제목: 깃 처음 시작
+주제: [마크다운, Markdown]
+설명: 깃허브 처음 시작입니다.
+---
+
 # Start
 깃허브 처음 시작
 
@@ -32,3 +38,9 @@ print('파이썬 코드')
   3. li3
   
   [링크](https://github.com/protocol-busy/start)
+
+
+|   th    |
+|---------|
+|   td1   |
+|   td2   |
